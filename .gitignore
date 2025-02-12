@@ -1,0 +1,25 @@
+# Ignorer le dossier des images téléchargées
+images/
+
+# Ignorer l'environnement virtuel
+env/
+venv/
+
+# Ignorer les fichiers temporaires de Jupyter Notebook
+.ipynb_checkpoints/
+
+# Ignorer les fichiers de cache Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignorer les fichiers de logs et backups
+*.log
+*.bak
+
+# Ignorer les fichiers de configuration spécifiques aux IDE
+.vscode/
+.idea/
+*.swp  # Fichiers temporaires de Vim
+
