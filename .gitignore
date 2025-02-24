@@ -23,3 +23,5 @@ __pycache__/
 .idea/
 *.swp  # Fichiers temporaires de Vim
 
+
+examples/
